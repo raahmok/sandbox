@@ -1,0 +1,1 @@
+/usr/bin/cc -Wl,--dependency-file=CMakeFiles/sandbox.dir/link.d CMakeFiles/sandbox.dir/src/sandbox.c.o -o sandbox  -Wl,-rpath,/home/kokot/Documents/Coding/C++/SDL3/sandbox/build libSDL3.so.0.2.5
