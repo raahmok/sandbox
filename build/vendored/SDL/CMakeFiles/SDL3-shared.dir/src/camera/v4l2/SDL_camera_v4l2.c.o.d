@@ -1,13 +1,13 @@
 vendored/SDL/CMakeFiles/SDL3-shared.dir/src/camera/v4l2/SDL_camera_v4l2.c.o: \
- /home/kokot/Documents/Coding/C++/SDL3/sandbox/vendored/SDL/src/camera/v4l2/SDL_camera_v4l2.c \
+ /home/honzik/Documents/Coding/C++/SDL3/sandbox/vendored/SDL/src/camera/v4l2/SDL_camera_v4l2.c \
  /usr/include/stdc-predef.h \
- /home/kokot/Documents/Coding/C++/SDL3/sandbox/vendored/SDL/src/SDL_internal.h \
+ /home/honzik/Documents/Coding/C++/SDL3/sandbox/vendored/SDL/src/SDL_internal.h \
  /usr/include/dirent.h /usr/include/features.h /usr/include/bits/types.h \
  /usr/include/bits/dirent.h /usr/include/bits/posix1_lim.h \
  /usr/include/bits/wordsize.h /usr/include/bits/local_lim.h \
  /usr/include/linux/limits.h \
  /usr/include/bits/pthread_stack_min-dynamic.h \
- /usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include/stddef.h \
+ /usr/lib/gcc/x86_64-redhat-linux/15/include/stddef.h \
  /usr/include/bits/dirent_ext.h /usr/include/errno.h \
  /usr/include/bits/errno.h /usr/include/linux/errno.h \
  /usr/include/asm/errno.h /usr/include/asm-generic/errno.h \
@@ -41,16 +41,16 @@ vendored/SDL/CMakeFiles/SDL3-shared.dir/src/camera/v4l2/SDL_camera_v4l2.c.o: \
  /usr/include/sys/time.h /usr/include/bits/types/struct_timeval.h \
  /usr/include/sys/select.h /usr/include/linux/v4l2-common.h \
  /usr/include/linux/v4l2-controls.h /usr/include/linux/const.h \
- /home/kokot/Documents/Coding/C++/SDL3/sandbox/vendored/SDL/src/camera/v4l2/../SDL_syscamera.h \
- /home/kokot/Documents/Coding/C++/SDL3/sandbox/vendored/SDL/src/camera/v4l2/../../SDL_internal.h \
- /home/kokot/Documents/Coding/C++/SDL3/sandbox/vendored/SDL/src/camera/v4l2/../../video/SDL_surface_c.h \
- /home/kokot/Documents/Coding/C++/SDL3/sandbox/vendored/SDL/src/camera/v4l2/../../video/SDL_blit.h \
- /home/kokot/Documents/Coding/C++/SDL3/sandbox/vendored/SDL/src/camera/v4l2/../SDL_camera_c.h \
- /home/kokot/Documents/Coding/C++/SDL3/sandbox/vendored/SDL/src/camera/v4l2/../../video/SDL_pixels_c.h \
- /home/kokot/Documents/Coding/C++/SDL3/sandbox/vendored/SDL/src/camera/v4l2/../../video/SDL_surface_c.h \
- /home/kokot/Documents/Coding/C++/SDL3/sandbox/vendored/SDL/src/camera/v4l2/../../thread/SDL_systhread.h \
- /home/kokot/Documents/Coding/C++/SDL3/sandbox/vendored/SDL/src/camera/v4l2/../../thread/SDL_thread_c.h \
- /home/kokot/Documents/Coding/C++/SDL3/sandbox/vendored/SDL/src/camera/v4l2/../../thread/pthread/SDL_systhread_c.h \
+ /home/honzik/Documents/Coding/C++/SDL3/sandbox/vendored/SDL/src/camera/v4l2/../SDL_syscamera.h \
+ /home/honzik/Documents/Coding/C++/SDL3/sandbox/vendored/SDL/src/camera/v4l2/../../SDL_internal.h \
+ /home/honzik/Documents/Coding/C++/SDL3/sandbox/vendored/SDL/src/camera/v4l2/../../video/SDL_surface_c.h \
+ /home/honzik/Documents/Coding/C++/SDL3/sandbox/vendored/SDL/src/camera/v4l2/../../video/SDL_blit.h \
+ /home/honzik/Documents/Coding/C++/SDL3/sandbox/vendored/SDL/src/camera/v4l2/../SDL_camera_c.h \
+ /home/honzik/Documents/Coding/C++/SDL3/sandbox/vendored/SDL/src/camera/v4l2/../../video/SDL_pixels_c.h \
+ /home/honzik/Documents/Coding/C++/SDL3/sandbox/vendored/SDL/src/camera/v4l2/../../video/SDL_surface_c.h \
+ /home/honzik/Documents/Coding/C++/SDL3/sandbox/vendored/SDL/src/camera/v4l2/../../thread/SDL_systhread.h \
+ /home/honzik/Documents/Coding/C++/SDL3/sandbox/vendored/SDL/src/camera/v4l2/../../thread/SDL_thread_c.h \
+ /home/honzik/Documents/Coding/C++/SDL3/sandbox/vendored/SDL/src/camera/v4l2/../../thread/pthread/SDL_systhread_c.h \
  /usr/include/pthread.h /usr/include/sched.h /usr/include/bits/sched.h \
  /usr/include/linux/sched/types.h \
  /usr/include/bits/types/struct_sched_param.h /usr/include/bits/cpu-set.h \
@@ -62,12 +62,9 @@ vendored/SDL/CMakeFiles/SDL3-shared.dir/src/camera/v4l2/SDL_camera_v4l2.c.o: \
  /usr/include/bits/pthreadtypes.h /usr/include/bits/setjmp.h \
  /usr/include/bits/types/__sigset_t.h \
  /usr/include/bits/types/struct___jmp_buf_tag.h \
- /home/kokot/Documents/Coding/C++/SDL3/sandbox/vendored/SDL/src/camera/v4l2/../../thread/../SDL_error_c.h \
- /home/kokot/Documents/Coding/C++/SDL3/sandbox/vendored/SDL/src/camera/v4l2/../../thread/../SDL_internal.h \
- /home/kokot/Documents/Coding/C++/SDL3/sandbox/vendored/SDL/src/camera/v4l2/../../core/linux/SDL_evdev_capabilities.h \
+ /home/honzik/Documents/Coding/C++/SDL3/sandbox/vendored/SDL/src/camera/v4l2/../../thread/../SDL_error_c.h \
+ /home/honzik/Documents/Coding/C++/SDL3/sandbox/vendored/SDL/src/camera/v4l2/../../thread/../SDL_internal.h \
+ /home/honzik/Documents/Coding/C++/SDL3/sandbox/vendored/SDL/src/camera/v4l2/../../core/linux/SDL_evdev_capabilities.h \
  /usr/include/linux/input.h /usr/include/sys/types.h \
  /usr/include/linux/input-event-codes.h \
- /home/kokot/Documents/Coding/C++/SDL3/sandbox/vendored/SDL/src/camera/v4l2/../../core/linux/SDL_udev.h \
- /usr/include/libudev.h \
- /usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include/stdarg.h \
- /usr/include/sys/sysmacros.h /usr/include/bits/sysmacros.h
+ /home/honzik/Documents/Coding/C++/SDL3/sandbox/vendored/SDL/src/camera/v4l2/../../core/linux/SDL_udev.h

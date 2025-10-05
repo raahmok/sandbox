@@ -1,17 +1,17 @@
 vendored/SDL/CMakeFiles/SDL3-shared.dir/src/video/x11/SDL_x11dyn.c.o: \
- /home/kokot/Documents/Coding/C++/SDL3/sandbox/vendored/SDL/src/video/x11/SDL_x11dyn.c \
+ /home/honzik/Documents/Coding/C++/SDL3/sandbox/vendored/SDL/src/video/x11/SDL_x11dyn.c \
  /usr/include/stdc-predef.h \
- /home/kokot/Documents/Coding/C++/SDL3/sandbox/vendored/SDL/src/SDL_internal.h \
- /home/kokot/Documents/Coding/C++/SDL3/sandbox/vendored/SDL/src/video/x11/SDL_x11dyn.h \
+ /home/honzik/Documents/Coding/C++/SDL3/sandbox/vendored/SDL/src/SDL_internal.h \
+ /home/honzik/Documents/Coding/C++/SDL3/sandbox/vendored/SDL/src/video/x11/SDL_x11dyn.h \
  /usr/include/X11/Xlib.h /usr/include/sys/types.h /usr/include/X11/X.h \
  /usr/include/X11/Xfuncproto.h /usr/include/X11/Xosdefs.h \
- /usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include/stddef.h \
+ /usr/lib/gcc/x86_64-redhat-linux/15/include/stddef.h \
  /usr/include/X11/Xutil.h /usr/include/X11/keysym.h \
  /usr/include/X11/keysymdef.h /usr/include/X11/Xatom.h \
  /usr/include/X11/Xresource.h /usr/include/X11/XKBlib.h \
  /usr/include/X11/extensions/XKBstr.h /usr/include/X11/extensions/XKB.h \
  /usr/include/X11/Xlibint.h \
- /usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include/stdint.h \
+ /usr/lib/gcc/x86_64-redhat-linux/15/include/stdint.h \
  /usr/include/X11/Xproto.h /usr/include/X11/Xmd.h \
  /usr/include/X11/Xprotostr.h /usr/include/X11/XlibConf.h \
  /usr/include/X11/Xthreads.h /usr/include/pthread.h \
@@ -46,17 +46,9 @@ vendored/SDL/CMakeFiles/SDL3-shared.dir/src/video/x11/SDL_x11dyn.c.o: \
  /usr/include/bits/types/struct_shmid_ds.h \
  /usr/include/bits/types/struct_shmid64_ds.h \
  /usr/include/X11/extensions/XShm.h /usr/include/X11/extensions/shm.h \
- /usr/include/X11/Xcursor/Xcursor.h /usr/include/stdio.h \
  /usr/include/X11/extensions/Xdbe.h /usr/include/X11/extensions/dbe.h \
- /usr/include/X11/extensions/XInput2.h /usr/include/X11/extensions/XI2.h \
- /usr/include/X11/extensions/Xge.h /usr/include/X11/extensions/Xfixes.h \
- /usr/include/X11/extensions/xfixeswire.h \
  /usr/include/X11/extensions/sync.h \
  /usr/include/X11/extensions/syncconst.h \
- /usr/include/X11/extensions/Xrandr.h /usr/include/X11/extensions/randr.h \
- /usr/include/X11/extensions/Xrender.h \
- /usr/include/X11/extensions/render.h /usr/include/X11/Xdefs.h \
- /usr/include/X11/extensions/scrnsaver.h \
- /usr/include/X11/extensions/saver.h /usr/include/X11/extensions/shape.h \
+ /usr/include/X11/extensions/shape.h \
  /usr/include/X11/extensions/shapeconst.h \
- /home/kokot/Documents/Coding/C++/SDL3/sandbox/vendored/SDL/src/video/x11/SDL_x11sym.h
+ /home/honzik/Documents/Coding/C++/SDL3/sandbox/vendored/SDL/src/video/x11/SDL_x11sym.h

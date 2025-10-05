@@ -1,11 +1,11 @@
 vendored/SDL/CMakeFiles/SDL3-shared.dir/src/haptic/linux/SDL_syshaptic.c.o: \
- /home/kokot/Documents/Coding/C++/SDL3/sandbox/vendored/SDL/src/haptic/linux/SDL_syshaptic.c \
+ /home/honzik/Documents/Coding/C++/SDL3/sandbox/vendored/SDL/src/haptic/linux/SDL_syshaptic.c \
  /usr/include/stdc-predef.h \
- /home/kokot/Documents/Coding/C++/SDL3/sandbox/vendored/SDL/src/SDL_internal.h \
- /home/kokot/Documents/Coding/C++/SDL3/sandbox/vendored/SDL/src/haptic/linux/../SDL_syshaptic.h \
- /home/kokot/Documents/Coding/C++/SDL3/sandbox/vendored/SDL/src/haptic/linux/../../joystick/SDL_sysjoystick.h \
- /home/kokot/Documents/Coding/C++/SDL3/sandbox/vendored/SDL/src/haptic/linux/../../joystick/SDL_joystick_c.h \
- /home/kokot/Documents/Coding/C++/SDL3/sandbox/vendored/SDL/src/haptic/linux/../../joystick/linux/SDL_sysjoystick_c.h \
+ /home/honzik/Documents/Coding/C++/SDL3/sandbox/vendored/SDL/src/SDL_internal.h \
+ /home/honzik/Documents/Coding/C++/SDL3/sandbox/vendored/SDL/src/haptic/linux/../SDL_syshaptic.h \
+ /home/honzik/Documents/Coding/C++/SDL3/sandbox/vendored/SDL/src/haptic/linux/../../joystick/SDL_sysjoystick.h \
+ /home/honzik/Documents/Coding/C++/SDL3/sandbox/vendored/SDL/src/haptic/linux/../../joystick/SDL_joystick_c.h \
+ /home/honzik/Documents/Coding/C++/SDL3/sandbox/vendored/SDL/src/haptic/linux/../../joystick/linux/SDL_sysjoystick_c.h \
  /usr/include/linux/input.h /usr/include/sys/time.h \
  /usr/include/features.h /usr/include/bits/types.h \
  /usr/include/bits/types/time_t.h \
@@ -22,14 +22,11 @@ vendored/SDL/CMakeFiles/SDL3-shared.dir/src/haptic/linux/SDL_syshaptic.c.o: \
  /usr/include/asm/posix_types.h /usr/include/asm/posix_types_64.h \
  /usr/include/asm-generic/posix_types.h \
  /usr/include/linux/input-event-codes.h \
- /home/kokot/Documents/Coding/C++/SDL3/sandbox/vendored/SDL/src/haptic/linux/../../core/linux/SDL_evdev_capabilities.h \
- /home/kokot/Documents/Coding/C++/SDL3/sandbox/vendored/SDL/src/haptic/linux/../../core/linux/SDL_udev.h \
- /usr/include/libudev.h \
- /usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include/stdarg.h \
- /usr/include/sys/sysmacros.h /usr/include/bits/sysmacros.h \
+ /home/honzik/Documents/Coding/C++/SDL3/sandbox/vendored/SDL/src/haptic/linux/../../core/linux/SDL_evdev_capabilities.h \
+ /home/honzik/Documents/Coding/C++/SDL3/sandbox/vendored/SDL/src/haptic/linux/../../core/linux/SDL_udev.h \
  /usr/include/unistd.h /usr/include/bits/posix_opt.h \
  /usr/include/bits/environments.h /usr/include/bits/wordsize.h \
- /usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include/stddef.h \
+ /usr/lib/gcc/x86_64-redhat-linux/15/include/stddef.h \
  /usr/include/bits/confname.h /usr/include/bits/getopt_posix.h \
  /usr/include/bits/getopt_core.h /usr/include/bits/unistd_ext.h \
  /usr/include/linux/close_range.h /usr/include/fcntl.h \
@@ -37,8 +34,8 @@ vendored/SDL/CMakeFiles/SDL3-shared.dir/src/haptic/linux/SDL_syshaptic.c.o: \
  /usr/include/bits/types/struct_iovec.h /usr/include/linux/falloc.h \
  /usr/include/bits/types/struct_timespec.h /usr/include/bits/stat.h \
  /usr/include/bits/struct_stat.h \
- /usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include/limits.h \
- /usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include/syslimits.h \
+ /usr/lib/gcc/x86_64-redhat-linux/15/include/limits.h \
+ /usr/lib/gcc/x86_64-redhat-linux/15/include/syslimits.h \
  /usr/include/limits.h /usr/include/bits/libc-header-start.h \
  /usr/include/bits/posix1_lim.h /usr/include/bits/local_lim.h \
  /usr/include/linux/limits.h \

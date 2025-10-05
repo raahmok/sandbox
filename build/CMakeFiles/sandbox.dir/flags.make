@@ -4,7 +4,7 @@
 # compile C with /usr/bin/cc
 C_DEFINES = 
 
-C_INCLUDES = -I/home/kokot/Documents/Coding/C++/SDL3/sandbox/build/vendored/SDL/include-revision -I/home/kokot/Documents/Coding/C++/SDL3/sandbox/vendored/SDL/include
+C_INCLUDES = -I/home/honzik/Documents/Coding/C++/SDL3/sandbox/build/vendored/SDL/include-revision -I/home/honzik/Documents/Coding/C++/SDL3/sandbox/vendored/SDL/include
 
 C_FLAGS = 
 

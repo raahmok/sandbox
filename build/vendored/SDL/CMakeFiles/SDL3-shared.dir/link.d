@@ -1,7 +1,7 @@
 ../../libSDL3.so.0.2.5: \
-  /home/kokot/Documents/Coding/C++/SDL3/sandbox/vendored/SDL/src/dynapi/SDL_dynapi.sym \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../lib/crti.o \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/crtbeginS.o \
+  /home/honzik/Documents/Coding/C++/SDL3/sandbox/vendored/SDL/src/dynapi/SDL_dynapi.sym \
+  /usr/lib/gcc/x86_64-redhat-linux/15/../../../../lib64/crti.o \
+  /usr/lib/gcc/x86_64-redhat-linux/15/crtbeginS.o \
   CMakeFiles/SDL3-shared.dir/src/SDL.c.o \
   CMakeFiles/SDL3-shared.dir/src/SDL_assert.c.o \
   CMakeFiles/SDL3-shared.dir/src/SDL_error.c.o \
@@ -142,12 +142,6 @@
   CMakeFiles/SDL3-shared.dir/src/video/dummy/SDL_nullevents.c.o \
   CMakeFiles/SDL3-shared.dir/src/video/dummy/SDL_nullframebuffer.c.o \
   CMakeFiles/SDL3-shared.dir/src/video/dummy/SDL_nullvideo.c.o \
-  CMakeFiles/SDL3-shared.dir/src/audio/alsa/SDL_alsa_audio.c.o \
-  CMakeFiles/SDL3-shared.dir/src/audio/jack/SDL_jackaudio.c.o \
-  CMakeFiles/SDL3-shared.dir/src/audio/pipewire/SDL_pipewire.c.o \
-  CMakeFiles/SDL3-shared.dir/src/camera/pipewire/SDL_camera_pipewire.c.o \
-  CMakeFiles/SDL3-shared.dir/src/audio/pulseaudio/SDL_pulseaudio.c.o \
-  CMakeFiles/SDL3-shared.dir/src/audio/sndio/SDL_sndioaudio.c.o \
   CMakeFiles/SDL3-shared.dir/src/video/x11/SDL_x11clipboard.c.o \
   CMakeFiles/SDL3-shared.dir/src/video/x11/SDL_x11dyn.c.o \
   CMakeFiles/SDL3-shared.dir/src/video/x11/SDL_x11events.c.o \
@@ -170,59 +164,13 @@
   CMakeFiles/SDL3-shared.dir/src/video/x11/SDL_x11xsync.c.o \
   CMakeFiles/SDL3-shared.dir/src/video/x11/edid-parse.c.o \
   CMakeFiles/SDL3-shared.dir/src/video/x11/xsettings-client.c.o \
-  CMakeFiles/SDL3-shared.dir/src/video/kmsdrm/SDL_kmsdrmdyn.c.o \
-  CMakeFiles/SDL3-shared.dir/src/video/kmsdrm/SDL_kmsdrmevents.c.o \
-  CMakeFiles/SDL3-shared.dir/src/video/kmsdrm/SDL_kmsdrmmouse.c.o \
-  CMakeFiles/SDL3-shared.dir/src/video/kmsdrm/SDL_kmsdrmopengles.c.o \
-  CMakeFiles/SDL3-shared.dir/src/video/kmsdrm/SDL_kmsdrmvideo.c.o \
-  CMakeFiles/SDL3-shared.dir/src/video/kmsdrm/SDL_kmsdrmvulkan.c.o \
-  CMakeFiles/SDL3-shared.dir/src/video/wayland/SDL_waylandclipboard.c.o \
-  CMakeFiles/SDL3-shared.dir/src/video/wayland/SDL_waylanddatamanager.c.o \
-  CMakeFiles/SDL3-shared.dir/src/video/wayland/SDL_waylanddyn.c.o \
-  CMakeFiles/SDL3-shared.dir/src/video/wayland/SDL_waylandevents.c.o \
-  CMakeFiles/SDL3-shared.dir/src/video/wayland/SDL_waylandkeyboard.c.o \
-  CMakeFiles/SDL3-shared.dir/src/video/wayland/SDL_waylandmessagebox.c.o \
-  CMakeFiles/SDL3-shared.dir/src/video/wayland/SDL_waylandmouse.c.o \
-  CMakeFiles/SDL3-shared.dir/src/video/wayland/SDL_waylandopengles.c.o \
-  CMakeFiles/SDL3-shared.dir/src/video/wayland/SDL_waylandshmbuffer.c.o \
-  CMakeFiles/SDL3-shared.dir/src/video/wayland/SDL_waylandvideo.c.o \
-  CMakeFiles/SDL3-shared.dir/src/video/wayland/SDL_waylandvulkan.c.o \
-  CMakeFiles/SDL3-shared.dir/src/video/wayland/SDL_waylandwindow.c.o \
-  CMakeFiles/SDL3-shared.dir/wayland-generated-protocols/alpha-modifier-v1-protocol.c.o \
-  CMakeFiles/SDL3-shared.dir/wayland-generated-protocols/cursor-shape-v1-protocol.c.o \
-  CMakeFiles/SDL3-shared.dir/wayland-generated-protocols/fractional-scale-v1-protocol.c.o \
-  CMakeFiles/SDL3-shared.dir/wayland-generated-protocols/frog-color-management-v1-protocol.c.o \
-  CMakeFiles/SDL3-shared.dir/wayland-generated-protocols/idle-inhibit-unstable-v1-protocol.c.o \
-  CMakeFiles/SDL3-shared.dir/wayland-generated-protocols/input-timestamps-unstable-v1-protocol.c.o \
-  CMakeFiles/SDL3-shared.dir/wayland-generated-protocols/keyboard-shortcuts-inhibit-unstable-v1-protocol.c.o \
-  CMakeFiles/SDL3-shared.dir/wayland-generated-protocols/pointer-constraints-unstable-v1-protocol.c.o \
-  CMakeFiles/SDL3-shared.dir/wayland-generated-protocols/primary-selection-unstable-v1-protocol.c.o \
-  CMakeFiles/SDL3-shared.dir/wayland-generated-protocols/relative-pointer-unstable-v1-protocol.c.o \
-  CMakeFiles/SDL3-shared.dir/wayland-generated-protocols/tablet-v2-protocol.c.o \
-  CMakeFiles/SDL3-shared.dir/wayland-generated-protocols/text-input-unstable-v3-protocol.c.o \
-  CMakeFiles/SDL3-shared.dir/wayland-generated-protocols/viewporter-protocol.c.o \
-  CMakeFiles/SDL3-shared.dir/wayland-generated-protocols/wayland-protocol.c.o \
-  CMakeFiles/SDL3-shared.dir/wayland-generated-protocols/xdg-activation-v1-protocol.c.o \
-  CMakeFiles/SDL3-shared.dir/wayland-generated-protocols/xdg-decoration-unstable-v1-protocol.c.o \
-  CMakeFiles/SDL3-shared.dir/wayland-generated-protocols/xdg-dialog-v1-protocol.c.o \
-  CMakeFiles/SDL3-shared.dir/wayland-generated-protocols/xdg-foreign-unstable-v2-protocol.c.o \
-  CMakeFiles/SDL3-shared.dir/wayland-generated-protocols/xdg-output-unstable-v1-protocol.c.o \
-  CMakeFiles/SDL3-shared.dir/wayland-generated-protocols/xdg-shell-protocol.c.o \
-  CMakeFiles/SDL3-shared.dir/wayland-generated-protocols/xdg-toplevel-icon-v1-protocol.c.o \
   CMakeFiles/SDL3-shared.dir/src/tray/unix/SDL_tray.c.o \
   CMakeFiles/SDL3-shared.dir/src/core/unix/SDL_appid.c.o \
   CMakeFiles/SDL3-shared.dir/src/core/unix/SDL_poll.c.o \
   CMakeFiles/SDL3-shared.dir/src/camera/v4l2/SDL_camera_v4l2.c.o \
   CMakeFiles/SDL3-shared.dir/src/haptic/linux/SDL_syshaptic.c.o \
-  CMakeFiles/SDL3-shared.dir/src/core/linux/SDL_dbus.c.o \
-  CMakeFiles/SDL3-shared.dir/src/core/linux/SDL_system_theme.c.o \
-  CMakeFiles/SDL3-shared.dir/src/core/linux/SDL_ime.c.o \
-  CMakeFiles/SDL3-shared.dir/src/core/linux/SDL_ibus.c.o \
-  CMakeFiles/SDL3-shared.dir/src/core/linux/SDL_fcitx.c.o \
-  CMakeFiles/SDL3-shared.dir/src/core/linux/SDL_udev.c.o \
   CMakeFiles/SDL3-shared.dir/src/core/linux/SDL_evdev.c.o \
   CMakeFiles/SDL3-shared.dir/src/core/linux/SDL_evdev_kbd.c.o \
-  CMakeFiles/SDL3-shared.dir/src/io/io_uring/SDL_asyncio_liburing.c.o \
   CMakeFiles/SDL3-shared.dir/src/core/linux/SDL_evdev_capabilities.c.o \
   CMakeFiles/SDL3-shared.dir/src/core/linux/SDL_threadprio.c.o \
   CMakeFiles/SDL3-shared.dir/src/joystick/hidapi/SDL_hidapi_combined.c.o \
@@ -276,39 +224,39 @@
   CMakeFiles/SDL3-shared.dir/src/gpu/vulkan/SDL_gpu_vulkan.c.o \
   CMakeFiles/SDL3-shared.dir/src/sensor/dummy/SDL_dummysensor.c.o \
   CMakeFiles/SDL3-shared.dir/src/main/generic/SDL_sysmain_callbacks.c.o \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../lib/libm.so \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../lib/libm.so \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../lib/libm.so \
-  /usr/lib/libm.so.6 \
-  /usr/lib/libmvec.so.1 \
+  /usr/lib/gcc/x86_64-redhat-linux/15/../../../../lib64/libm.so \
+  /usr/lib/gcc/x86_64-redhat-linux/15/../../../../lib64/libm.so \
+  /usr/lib/gcc/x86_64-redhat-linux/15/../../../../lib64/libm.so \
+  /lib64/libm.so.6 \
+  /lib64/libmvec.so.1 \
   libSDL_uclibc.a \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/libgcc.a \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../lib/libgcc_s.so \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../lib/libgcc_s.so \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../lib/libgcc_s.so \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../lib/libgcc_s.so.1 \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/libgcc.a \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../lib/libpthread.a \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../lib/libc.so \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../lib/libc.so \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../lib/libc.so \
-  /usr/lib/libc.so.6 \
-  /usr/lib/libc_nonshared.a \
-  /usr/lib/ld-linux-x86-64.so.2 \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/libgcc.a \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../lib/libgcc_s.so \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../lib/libgcc_s.so \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../lib/libgcc_s.so \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../lib/libgcc_s.so.1 \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/libgcc.a \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/crtendS.o \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../lib/crtn.o
+  /usr/lib/gcc/x86_64-redhat-linux/15/libgcc.a \
+  /usr/lib/gcc/x86_64-redhat-linux/15/libgcc_s.so \
+  /usr/lib/gcc/x86_64-redhat-linux/15/libgcc_s.so \
+  /usr/lib/gcc/x86_64-redhat-linux/15/libgcc_s.so \
+  /lib64/libgcc_s.so.1 \
+  /usr/lib/gcc/x86_64-redhat-linux/15/libgcc.a \
+  /usr/lib/gcc/x86_64-redhat-linux/15/../../../../lib64/libpthread.a \
+  /usr/lib/gcc/x86_64-redhat-linux/15/../../../../lib64/libc.so \
+  /usr/lib/gcc/x86_64-redhat-linux/15/../../../../lib64/libc.so \
+  /usr/lib/gcc/x86_64-redhat-linux/15/../../../../lib64/libc.so \
+  /lib64/libc.so.6 \
+  /usr/lib64/libc_nonshared.a \
+  /lib64/ld-linux-x86-64.so.2 \
+  /usr/lib/gcc/x86_64-redhat-linux/15/libgcc.a \
+  /usr/lib/gcc/x86_64-redhat-linux/15/libgcc_s.so \
+  /usr/lib/gcc/x86_64-redhat-linux/15/libgcc_s.so \
+  /usr/lib/gcc/x86_64-redhat-linux/15/libgcc_s.so \
+  /lib64/libgcc_s.so.1 \
+  /usr/lib/gcc/x86_64-redhat-linux/15/libgcc.a \
+  /usr/lib/gcc/x86_64-redhat-linux/15/crtendS.o \
+  /usr/lib/gcc/x86_64-redhat-linux/15/../../../../lib64/crtn.o
 
-/home/kokot/Documents/Coding/C++/SDL3/sandbox/vendored/SDL/src/dynapi/SDL_dynapi.sym:
+/home/honzik/Documents/Coding/C++/SDL3/sandbox/vendored/SDL/src/dynapi/SDL_dynapi.sym:
 
-/usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../lib/crti.o:
+/usr/lib/gcc/x86_64-redhat-linux/15/../../../../lib64/crti.o:
 
-/usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/crtbeginS.o:
+/usr/lib/gcc/x86_64-redhat-linux/15/crtbeginS.o:
 
 CMakeFiles/SDL3-shared.dir/src/SDL.c.o:
 
@@ -590,18 +538,6 @@ CMakeFiles/SDL3-shared.dir/src/video/dummy/SDL_nullframebuffer.c.o:
 
 CMakeFiles/SDL3-shared.dir/src/video/dummy/SDL_nullvideo.c.o:
 
-CMakeFiles/SDL3-shared.dir/src/audio/alsa/SDL_alsa_audio.c.o:
-
-CMakeFiles/SDL3-shared.dir/src/audio/jack/SDL_jackaudio.c.o:
-
-CMakeFiles/SDL3-shared.dir/src/audio/pipewire/SDL_pipewire.c.o:
-
-CMakeFiles/SDL3-shared.dir/src/camera/pipewire/SDL_camera_pipewire.c.o:
-
-CMakeFiles/SDL3-shared.dir/src/audio/pulseaudio/SDL_pulseaudio.c.o:
-
-CMakeFiles/SDL3-shared.dir/src/audio/sndio/SDL_sndioaudio.c.o:
-
 CMakeFiles/SDL3-shared.dir/src/video/x11/SDL_x11clipboard.c.o:
 
 CMakeFiles/SDL3-shared.dir/src/video/x11/SDL_x11dyn.c.o:
@@ -646,84 +582,6 @@ CMakeFiles/SDL3-shared.dir/src/video/x11/edid-parse.c.o:
 
 CMakeFiles/SDL3-shared.dir/src/video/x11/xsettings-client.c.o:
 
-CMakeFiles/SDL3-shared.dir/src/video/kmsdrm/SDL_kmsdrmdyn.c.o:
-
-CMakeFiles/SDL3-shared.dir/src/video/kmsdrm/SDL_kmsdrmevents.c.o:
-
-CMakeFiles/SDL3-shared.dir/src/video/kmsdrm/SDL_kmsdrmmouse.c.o:
-
-CMakeFiles/SDL3-shared.dir/src/video/kmsdrm/SDL_kmsdrmopengles.c.o:
-
-CMakeFiles/SDL3-shared.dir/src/video/kmsdrm/SDL_kmsdrmvideo.c.o:
-
-CMakeFiles/SDL3-shared.dir/src/video/kmsdrm/SDL_kmsdrmvulkan.c.o:
-
-CMakeFiles/SDL3-shared.dir/src/video/wayland/SDL_waylandclipboard.c.o:
-
-CMakeFiles/SDL3-shared.dir/src/video/wayland/SDL_waylanddatamanager.c.o:
-
-CMakeFiles/SDL3-shared.dir/src/video/wayland/SDL_waylanddyn.c.o:
-
-CMakeFiles/SDL3-shared.dir/src/video/wayland/SDL_waylandevents.c.o:
-
-CMakeFiles/SDL3-shared.dir/src/video/wayland/SDL_waylandkeyboard.c.o:
-
-CMakeFiles/SDL3-shared.dir/src/video/wayland/SDL_waylandmessagebox.c.o:
-
-CMakeFiles/SDL3-shared.dir/src/video/wayland/SDL_waylandmouse.c.o:
-
-CMakeFiles/SDL3-shared.dir/src/video/wayland/SDL_waylandopengles.c.o:
-
-CMakeFiles/SDL3-shared.dir/src/video/wayland/SDL_waylandshmbuffer.c.o:
-
-CMakeFiles/SDL3-shared.dir/src/video/wayland/SDL_waylandvideo.c.o:
-
-CMakeFiles/SDL3-shared.dir/src/video/wayland/SDL_waylandvulkan.c.o:
-
-CMakeFiles/SDL3-shared.dir/src/video/wayland/SDL_waylandwindow.c.o:
-
-CMakeFiles/SDL3-shared.dir/wayland-generated-protocols/alpha-modifier-v1-protocol.c.o:
-
-CMakeFiles/SDL3-shared.dir/wayland-generated-protocols/cursor-shape-v1-protocol.c.o:
-
-CMakeFiles/SDL3-shared.dir/wayland-generated-protocols/fractional-scale-v1-protocol.c.o:
-
-CMakeFiles/SDL3-shared.dir/wayland-generated-protocols/frog-color-management-v1-protocol.c.o:
-
-CMakeFiles/SDL3-shared.dir/wayland-generated-protocols/idle-inhibit-unstable-v1-protocol.c.o:
-
-CMakeFiles/SDL3-shared.dir/wayland-generated-protocols/input-timestamps-unstable-v1-protocol.c.o:
-
-CMakeFiles/SDL3-shared.dir/wayland-generated-protocols/keyboard-shortcuts-inhibit-unstable-v1-protocol.c.o:
-
-CMakeFiles/SDL3-shared.dir/wayland-generated-protocols/pointer-constraints-unstable-v1-protocol.c.o:
-
-CMakeFiles/SDL3-shared.dir/wayland-generated-protocols/primary-selection-unstable-v1-protocol.c.o:
-
-CMakeFiles/SDL3-shared.dir/wayland-generated-protocols/relative-pointer-unstable-v1-protocol.c.o:
-
-CMakeFiles/SDL3-shared.dir/wayland-generated-protocols/tablet-v2-protocol.c.o:
-
-CMakeFiles/SDL3-shared.dir/wayland-generated-protocols/text-input-unstable-v3-protocol.c.o:
-
-CMakeFiles/SDL3-shared.dir/wayland-generated-protocols/viewporter-protocol.c.o:
-
-CMakeFiles/SDL3-shared.dir/wayland-generated-protocols/wayland-protocol.c.o:
-
-CMakeFiles/SDL3-shared.dir/wayland-generated-protocols/xdg-activation-v1-protocol.c.o:
-
-CMakeFiles/SDL3-shared.dir/wayland-generated-protocols/xdg-decoration-unstable-v1-protocol.c.o:
-
-CMakeFiles/SDL3-shared.dir/wayland-generated-protocols/xdg-dialog-v1-protocol.c.o:
-
-CMakeFiles/SDL3-shared.dir/wayland-generated-protocols/xdg-foreign-unstable-v2-protocol.c.o:
-
-CMakeFiles/SDL3-shared.dir/wayland-generated-protocols/xdg-output-unstable-v1-protocol.c.o:
-
-CMakeFiles/SDL3-shared.dir/wayland-generated-protocols/xdg-shell-protocol.c.o:
-
-CMakeFiles/SDL3-shared.dir/wayland-generated-protocols/xdg-toplevel-icon-v1-protocol.c.o:
-
 CMakeFiles/SDL3-shared.dir/src/tray/unix/SDL_tray.c.o:
 
 CMakeFiles/SDL3-shared.dir/src/core/unix/SDL_appid.c.o:
@@ -734,23 +592,9 @@ CMakeFiles/SDL3-shared.dir/src/camera/v4l2/SDL_camera_v4l2.c.o:
 
 CMakeFiles/SDL3-shared.dir/src/haptic/linux/SDL_syshaptic.c.o:
 
-CMakeFiles/SDL3-shared.dir/src/core/linux/SDL_dbus.c.o:
-
-CMakeFiles/SDL3-shared.dir/src/core/linux/SDL_system_theme.c.o:
-
-CMakeFiles/SDL3-shared.dir/src/core/linux/SDL_ime.c.o:
-
-CMakeFiles/SDL3-shared.dir/src/core/linux/SDL_ibus.c.o:
-
-CMakeFiles/SDL3-shared.dir/src/core/linux/SDL_fcitx.c.o:
-
-CMakeFiles/SDL3-shared.dir/src/core/linux/SDL_udev.c.o:
-
 CMakeFiles/SDL3-shared.dir/src/core/linux/SDL_evdev.c.o:
 
 CMakeFiles/SDL3-shared.dir/src/core/linux/SDL_evdev_kbd.c.o:
-
-CMakeFiles/SDL3-shared.dir/src/io/io_uring/SDL_asyncio_liburing.c.o:
 
 CMakeFiles/SDL3-shared.dir/src/core/linux/SDL_evdev_capabilities.c.o:
 
@@ -858,56 +702,56 @@ CMakeFiles/SDL3-shared.dir/src/sensor/dummy/SDL_dummysensor.c.o:
 
 CMakeFiles/SDL3-shared.dir/src/main/generic/SDL_sysmain_callbacks.c.o:
 
-/usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../lib/libm.so:
+/usr/lib/gcc/x86_64-redhat-linux/15/../../../../lib64/libm.so:
 
-/usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../lib/libm.so:
+/usr/lib/gcc/x86_64-redhat-linux/15/../../../../lib64/libm.so:
 
-/usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../lib/libm.so:
+/usr/lib/gcc/x86_64-redhat-linux/15/../../../../lib64/libm.so:
 
-/usr/lib/libm.so.6:
+/lib64/libm.so.6:
 
-/usr/lib/libmvec.so.1:
+/lib64/libmvec.so.1:
 
 libSDL_uclibc.a:
 
-/usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/libgcc.a:
+/usr/lib/gcc/x86_64-redhat-linux/15/libgcc.a:
 
-/usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../lib/libgcc_s.so:
+/usr/lib/gcc/x86_64-redhat-linux/15/libgcc_s.so:
 
-/usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../lib/libgcc_s.so:
+/usr/lib/gcc/x86_64-redhat-linux/15/libgcc_s.so:
 
-/usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../lib/libgcc_s.so:
+/usr/lib/gcc/x86_64-redhat-linux/15/libgcc_s.so:
 
-/usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../lib/libgcc_s.so.1:
+/lib64/libgcc_s.so.1:
 
-/usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/libgcc.a:
+/usr/lib/gcc/x86_64-redhat-linux/15/libgcc.a:
 
-/usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../lib/libpthread.a:
+/usr/lib/gcc/x86_64-redhat-linux/15/../../../../lib64/libpthread.a:
 
-/usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../lib/libc.so:
+/usr/lib/gcc/x86_64-redhat-linux/15/../../../../lib64/libc.so:
 
-/usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../lib/libc.so:
+/usr/lib/gcc/x86_64-redhat-linux/15/../../../../lib64/libc.so:
 
-/usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../lib/libc.so:
+/usr/lib/gcc/x86_64-redhat-linux/15/../../../../lib64/libc.so:
 
-/usr/lib/libc.so.6:
+/lib64/libc.so.6:
 
-/usr/lib/libc_nonshared.a:
+/usr/lib64/libc_nonshared.a:
 
-/usr/lib/ld-linux-x86-64.so.2:
+/lib64/ld-linux-x86-64.so.2:
 
-/usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/libgcc.a:
+/usr/lib/gcc/x86_64-redhat-linux/15/libgcc.a:
 
-/usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../lib/libgcc_s.so:
+/usr/lib/gcc/x86_64-redhat-linux/15/libgcc_s.so:
 
-/usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../lib/libgcc_s.so:
+/usr/lib/gcc/x86_64-redhat-linux/15/libgcc_s.so:
 
-/usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../lib/libgcc_s.so:
+/usr/lib/gcc/x86_64-redhat-linux/15/libgcc_s.so:
 
-/usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../lib/libgcc_s.so.1:
+/lib64/libgcc_s.so.1:
 
-/usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/libgcc.a:
+/usr/lib/gcc/x86_64-redhat-linux/15/libgcc.a:
 
-/usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/crtendS.o:
+/usr/lib/gcc/x86_64-redhat-linux/15/crtendS.o:
 
-/usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../lib/crtn.o:
+/usr/lib/gcc/x86_64-redhat-linux/15/../../../../lib64/crtn.o:

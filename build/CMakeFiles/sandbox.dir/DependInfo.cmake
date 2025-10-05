@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/kokot/Documents/Coding/C++/SDL3/sandbox/src/sandbox.c" "CMakeFiles/sandbox.dir/src/sandbox.c.o" "gcc" "CMakeFiles/sandbox.dir/src/sandbox.c.o.d"
+  "/home/honzik/Documents/Coding/C++/SDL3/sandbox/src/sandbox.c" "CMakeFiles/sandbox.dir/src/sandbox.c.o" "gcc" "CMakeFiles/sandbox.dir/src/sandbox.c.o.d"
   "" "sandbox" "gcc" "CMakeFiles/sandbox.dir/link.d"
   )
 

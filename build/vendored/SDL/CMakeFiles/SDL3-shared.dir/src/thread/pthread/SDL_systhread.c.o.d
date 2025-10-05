@@ -1,10 +1,10 @@
 vendored/SDL/CMakeFiles/SDL3-shared.dir/src/thread/pthread/SDL_systhread.c.o: \
- /home/kokot/Documents/Coding/C++/SDL3/sandbox/vendored/SDL/src/thread/pthread/SDL_systhread.c \
+ /home/honzik/Documents/Coding/C++/SDL3/sandbox/vendored/SDL/src/thread/pthread/SDL_systhread.c \
  /usr/include/stdc-predef.h \
- /home/kokot/Documents/Coding/C++/SDL3/sandbox/vendored/SDL/src/SDL_internal.h \
+ /home/honzik/Documents/Coding/C++/SDL3/sandbox/vendored/SDL/src/SDL_internal.h \
  /usr/include/pthread.h /usr/include/features.h /usr/include/sched.h \
  /usr/include/bits/types.h \
- /usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include/stddef.h \
+ /usr/lib/gcc/x86_64-redhat-linux/15/include/stddef.h \
  /usr/include/bits/types/time_t.h \
  /usr/include/bits/types/struct_timespec.h /usr/include/bits/sched.h \
  /usr/include/linux/sched/types.h /usr/include/linux/types.h \
@@ -49,30 +49,12 @@ vendored/SDL/CMakeFiles/SDL3-shared.dir/src/thread/pthread/SDL_systhread.c.o: \
  /usr/include/bits/types/struct_rusage.h /usr/include/sys/syscall.h \
  /usr/include/asm/unistd.h /usr/include/asm/unistd_64.h \
  /usr/include/bits/syscall.h \
- /home/kokot/Documents/Coding/C++/SDL3/sandbox/vendored/SDL/src/thread/pthread/../../core/linux/SDL_dbus.h \
- /usr/include/dbus-1.0/dbus/dbus.h \
- /usr/lib/dbus-1.0/include/dbus/dbus-arch-deps.h \
- /usr/include/dbus-1.0/dbus/dbus-macros.h \
- /usr/include/dbus-1.0/dbus/dbus-address.h \
- /usr/include/dbus-1.0/dbus/dbus-types.h \
- /usr/include/dbus-1.0/dbus/dbus-errors.h \
- /usr/include/dbus-1.0/dbus/dbus-protocol.h \
- /usr/include/dbus-1.0/dbus/dbus-bus.h \
- /usr/include/dbus-1.0/dbus/dbus-connection.h \
- /usr/include/dbus-1.0/dbus/dbus-memory.h \
- /usr/include/dbus-1.0/dbus/dbus-message.h \
- /usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include/stdarg.h \
- /usr/include/dbus-1.0/dbus/dbus-shared.h \
- /usr/include/dbus-1.0/dbus/dbus-misc.h \
- /usr/include/dbus-1.0/dbus/dbus-pending-call.h \
- /usr/include/dbus-1.0/dbus/dbus-server.h \
- /usr/include/dbus-1.0/dbus/dbus-signature.h \
- /usr/include/dbus-1.0/dbus/dbus-syntax.h \
- /usr/include/dbus-1.0/dbus/dbus-threads.h /usr/include/dlfcn.h \
- /usr/include/bits/dlfcn.h /usr/include/bits/dl_find_object.h \
- /home/kokot/Documents/Coding/C++/SDL3/sandbox/vendored/SDL/src/thread/pthread/../SDL_thread_c.h \
- /home/kokot/Documents/Coding/C++/SDL3/sandbox/vendored/SDL/src/thread/pthread/../pthread/SDL_systhread_c.h \
- /home/kokot/Documents/Coding/C++/SDL3/sandbox/vendored/SDL/src/thread/pthread/../../SDL_error_c.h \
- /home/kokot/Documents/Coding/C++/SDL3/sandbox/vendored/SDL/src/thread/pthread/../../SDL_internal.h \
- /home/kokot/Documents/Coding/C++/SDL3/sandbox/vendored/SDL/src/thread/pthread/../SDL_systhread.h \
- /home/kokot/Documents/Coding/C++/SDL3/sandbox/vendored/SDL/src/thread/pthread/../SDL_thread_c.h
+ /home/honzik/Documents/Coding/C++/SDL3/sandbox/vendored/SDL/src/thread/pthread/../../core/linux/SDL_dbus.h \
+ /usr/include/dlfcn.h /usr/include/bits/dlfcn.h \
+ /usr/include/bits/dl_find_object.h \
+ /home/honzik/Documents/Coding/C++/SDL3/sandbox/vendored/SDL/src/thread/pthread/../SDL_thread_c.h \
+ /home/honzik/Documents/Coding/C++/SDL3/sandbox/vendored/SDL/src/thread/pthread/../pthread/SDL_systhread_c.h \
+ /home/honzik/Documents/Coding/C++/SDL3/sandbox/vendored/SDL/src/thread/pthread/../../SDL_error_c.h \
+ /home/honzik/Documents/Coding/C++/SDL3/sandbox/vendored/SDL/src/thread/pthread/../../SDL_internal.h \
+ /home/honzik/Documents/Coding/C++/SDL3/sandbox/vendored/SDL/src/thread/pthread/../SDL_systhread.h \
+ /home/honzik/Documents/Coding/C++/SDL3/sandbox/vendored/SDL/src/thread/pthread/../SDL_thread_c.h

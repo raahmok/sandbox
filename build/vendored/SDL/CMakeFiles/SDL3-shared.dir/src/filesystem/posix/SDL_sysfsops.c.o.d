@@ -1,8 +1,8 @@
 vendored/SDL/CMakeFiles/SDL3-shared.dir/src/filesystem/posix/SDL_sysfsops.c.o: \
- /home/kokot/Documents/Coding/C++/SDL3/sandbox/vendored/SDL/src/filesystem/posix/SDL_sysfsops.c \
+ /home/honzik/Documents/Coding/C++/SDL3/sandbox/vendored/SDL/src/filesystem/posix/SDL_sysfsops.c \
  /usr/include/stdc-predef.h \
- /home/kokot/Documents/Coding/C++/SDL3/sandbox/vendored/SDL/src/SDL_internal.h \
- /home/kokot/Documents/Coding/C++/SDL3/sandbox/vendored/SDL/src/filesystem/posix/../SDL_sysfilesystem.h \
+ /home/honzik/Documents/Coding/C++/SDL3/sandbox/vendored/SDL/src/SDL_internal.h \
+ /home/honzik/Documents/Coding/C++/SDL3/sandbox/vendored/SDL/src/filesystem/posix/../SDL_sysfilesystem.h \
  /usr/include/stdio.h /usr/include/string.h /usr/include/errno.h \
  /usr/include/features.h /usr/include/bits/errno.h \
  /usr/include/linux/errno.h /usr/include/asm/errno.h \
@@ -12,7 +12,7 @@ vendored/SDL/CMakeFiles/SDL3-shared.dir/src/filesystem/posix/SDL_sysfsops.c.o: \
  /usr/include/bits/posix1_lim.h /usr/include/bits/wordsize.h \
  /usr/include/bits/local_lim.h /usr/include/linux/limits.h \
  /usr/include/bits/pthread_stack_min-dynamic.h \
- /usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include/stddef.h \
+ /usr/lib/gcc/x86_64-redhat-linux/15/include/stddef.h \
  /usr/include/bits/dirent_ext.h /usr/include/sys/stat.h \
  /usr/include/bits/types/struct_timespec.h \
  /usr/include/bits/types/time_t.h /usr/include/bits/stat.h \

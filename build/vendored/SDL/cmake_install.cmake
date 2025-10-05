@@ -1,4 +1,4 @@
-# Install script for directory: /home/kokot/Documents/Coding/C++/SDL3/sandbox/vendored/SDL
+# Install script for directory: /home/honzik/Documents/Coding/C++/SDL3/sandbox/vendored/SDL
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,6 +45,6 @@ endif()
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
 if(CMAKE_INSTALL_LOCAL_ONLY)
-  file(WRITE "/home/kokot/Documents/Coding/C++/SDL3/sandbox/build/vendored/SDL/install_local_manifest.txt"
+  file(WRITE "/home/honzik/Documents/Coding/C++/SDL3/sandbox/build/vendored/SDL/install_local_manifest.txt"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
 endif()

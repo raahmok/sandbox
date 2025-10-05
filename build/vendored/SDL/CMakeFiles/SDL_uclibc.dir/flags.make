@@ -4,7 +4,7 @@
 # compile C with /usr/bin/cc
 C_DEFINES = -DUSING_GENERATED_CONFIG_H
 
-C_INCLUDES = -I/home/kokot/Documents/Coding/C++/SDL3/sandbox/build/vendored/SDL/include-config-/build_config -I/home/kokot/Documents/Coding/C++/SDL3/sandbox/vendored/SDL/src -I/home/kokot/Documents/Coding/C++/SDL3/sandbox/vendored/SDL/include
+C_INCLUDES = -I/home/honzik/Documents/Coding/C++/SDL3/sandbox/build/vendored/SDL/include-config-/build_config -I/home/honzik/Documents/Coding/C++/SDL3/sandbox/vendored/SDL/src -I/home/honzik/Documents/Coding/C++/SDL3/sandbox/vendored/SDL/include
 
 C_FLAGS = -fvisibility=hidden -Wall -Wundef -Wfloat-conversion -fno-strict-aliasing -Wshadow -Wno-unused-local-typedefs -Wimplicit-fallthrough -fdiagnostics-color=always
 

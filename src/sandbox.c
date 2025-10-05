@@ -342,7 +342,7 @@ int main()
     SDL_Window* window = SDL_CreateWindow("Sandbox", WINDOW_W, WINDOW_H, 0);
     SDL_Renderer* renderer = SDL_CreateRenderer(window, NULL);
 
-    initGrid(cell_grid);
+    initGrid();
 
     int selected_element = SAND;
     int brushSize = 2;

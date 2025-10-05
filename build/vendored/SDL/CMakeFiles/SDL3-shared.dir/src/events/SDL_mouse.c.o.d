@@ -1,26 +1,26 @@
 vendored/SDL/CMakeFiles/SDL3-shared.dir/src/events/SDL_mouse.c.o: \
- /home/kokot/Documents/Coding/C++/SDL3/sandbox/vendored/SDL/src/events/SDL_mouse.c \
+ /home/honzik/Documents/Coding/C++/SDL3/sandbox/vendored/SDL/src/events/SDL_mouse.c \
  /usr/include/stdc-predef.h \
- /home/kokot/Documents/Coding/C++/SDL3/sandbox/vendored/SDL/src/SDL_internal.h \
- /home/kokot/Documents/Coding/C++/SDL3/sandbox/vendored/SDL/src/events/../SDL_hints_c.h \
- /home/kokot/Documents/Coding/C++/SDL3/sandbox/vendored/SDL/src/events/../SDL_internal.h \
- /home/kokot/Documents/Coding/C++/SDL3/sandbox/vendored/SDL/src/events/../video/SDL_sysvideo.h \
- /home/kokot/Documents/Coding/C++/SDL3/sandbox/vendored/SDL/include/SDL3/SDL_vulkan.h \
- /home/kokot/Documents/Coding/C++/SDL3/sandbox/vendored/SDL/include/SDL3/SDL_stdinc.h \
- /home/kokot/Documents/Coding/C++/SDL3/sandbox/vendored/SDL/include/SDL3/SDL_error.h \
- /home/kokot/Documents/Coding/C++/SDL3/sandbox/vendored/SDL/include/SDL3/SDL_video.h \
- /home/kokot/Documents/Coding/C++/SDL3/sandbox/vendored/SDL/include/SDL3/SDL_begin_code.h \
- /home/kokot/Documents/Coding/C++/SDL3/sandbox/vendored/SDL/include/SDL3/SDL_close_code.h \
- /home/kokot/Documents/Coding/C++/SDL3/sandbox/vendored/SDL/src/events/../video/SDL_surface_c.h \
- /home/kokot/Documents/Coding/C++/SDL3/sandbox/vendored/SDL/src/events/../video/SDL_blit.h \
- /home/kokot/Documents/Coding/C++/SDL3/sandbox/vendored/SDL/src/events/SDL_events_c.h \
- /home/kokot/Documents/Coding/C++/SDL3/sandbox/vendored/SDL/src/events/SDL_clipboardevents_c.h \
- /home/kokot/Documents/Coding/C++/SDL3/sandbox/vendored/SDL/src/events/SDL_displayevents_c.h \
- /home/kokot/Documents/Coding/C++/SDL3/sandbox/vendored/SDL/src/events/SDL_dropevents_c.h \
- /home/kokot/Documents/Coding/C++/SDL3/sandbox/vendored/SDL/src/events/SDL_keyboard_c.h \
- /home/kokot/Documents/Coding/C++/SDL3/sandbox/vendored/SDL/src/events/SDL_keymap_c.h \
- /home/kokot/Documents/Coding/C++/SDL3/sandbox/vendored/SDL/src/events/SDL_mouse_c.h \
- /home/kokot/Documents/Coding/C++/SDL3/sandbox/vendored/SDL/src/events/SDL_touch_c.h \
- /home/kokot/Documents/Coding/C++/SDL3/sandbox/vendored/SDL/src/events/SDL_pen_c.h \
- /home/kokot/Documents/Coding/C++/SDL3/sandbox/vendored/SDL/src/events/../SDL_internal.h \
- /home/kokot/Documents/Coding/C++/SDL3/sandbox/vendored/SDL/src/events/SDL_windowevents_c.h
+ /home/honzik/Documents/Coding/C++/SDL3/sandbox/vendored/SDL/src/SDL_internal.h \
+ /home/honzik/Documents/Coding/C++/SDL3/sandbox/vendored/SDL/src/events/../SDL_hints_c.h \
+ /home/honzik/Documents/Coding/C++/SDL3/sandbox/vendored/SDL/src/events/../SDL_internal.h \
+ /home/honzik/Documents/Coding/C++/SDL3/sandbox/vendored/SDL/src/events/../video/SDL_sysvideo.h \
+ /home/honzik/Documents/Coding/C++/SDL3/sandbox/vendored/SDL/include/SDL3/SDL_vulkan.h \
+ /home/honzik/Documents/Coding/C++/SDL3/sandbox/vendored/SDL/include/SDL3/SDL_stdinc.h \
+ /home/honzik/Documents/Coding/C++/SDL3/sandbox/vendored/SDL/include/SDL3/SDL_error.h \
+ /home/honzik/Documents/Coding/C++/SDL3/sandbox/vendored/SDL/include/SDL3/SDL_video.h \
+ /home/honzik/Documents/Coding/C++/SDL3/sandbox/vendored/SDL/include/SDL3/SDL_begin_code.h \
+ /home/honzik/Documents/Coding/C++/SDL3/sandbox/vendored/SDL/include/SDL3/SDL_close_code.h \
+ /home/honzik/Documents/Coding/C++/SDL3/sandbox/vendored/SDL/src/events/../video/SDL_surface_c.h \
+ /home/honzik/Documents/Coding/C++/SDL3/sandbox/vendored/SDL/src/events/../video/SDL_blit.h \
+ /home/honzik/Documents/Coding/C++/SDL3/sandbox/vendored/SDL/src/events/SDL_events_c.h \
+ /home/honzik/Documents/Coding/C++/SDL3/sandbox/vendored/SDL/src/events/SDL_clipboardevents_c.h \
+ /home/honzik/Documents/Coding/C++/SDL3/sandbox/vendored/SDL/src/events/SDL_displayevents_c.h \
+ /home/honzik/Documents/Coding/C++/SDL3/sandbox/vendored/SDL/src/events/SDL_dropevents_c.h \
+ /home/honzik/Documents/Coding/C++/SDL3/sandbox/vendored/SDL/src/events/SDL_keyboard_c.h \
+ /home/honzik/Documents/Coding/C++/SDL3/sandbox/vendored/SDL/src/events/SDL_keymap_c.h \
+ /home/honzik/Documents/Coding/C++/SDL3/sandbox/vendored/SDL/src/events/SDL_mouse_c.h \
+ /home/honzik/Documents/Coding/C++/SDL3/sandbox/vendored/SDL/src/events/SDL_touch_c.h \
+ /home/honzik/Documents/Coding/C++/SDL3/sandbox/vendored/SDL/src/events/SDL_pen_c.h \
+ /home/honzik/Documents/Coding/C++/SDL3/sandbox/vendored/SDL/src/events/../SDL_internal.h \
+ /home/honzik/Documents/Coding/C++/SDL3/sandbox/vendored/SDL/src/events/SDL_windowevents_c.h
